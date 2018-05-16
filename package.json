@@ -4,7 +4,7 @@
   "description": "The utils module of reinjs",
   "main": "index.js",
   "scripts": {
-    "publish": "npm publish --access=public"
+    "pub": "npm publish --access=public"
   },
   "repository": {
     "type": "git",
